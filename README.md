@@ -3,8 +3,11 @@
 #I'm Manideep Elasagaram, a dedicated Data Analytics graduate with a passion for uncovering insights and driving data-driven decisions.
 
 📊 Proficient in data analysis, statistical modeling, and visualization techniques.
+
 🔍 Experienced in Python, R, SQL, and data visualization tools like Tableau and Power BI.
+
 🌱 Currently honing my skills in machine learning and advanced analytics techniques.
+
 📧 Open to full-time opportunities in data analytics and eager to contribute to impactful projects.
 
 Let's connect and explore potential collaborations! 🌟
