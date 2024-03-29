@@ -1,17 +1,14 @@
 ##                                               Hi there 👋
 
-# I'm Manideep Elasagaram, a dedicated Data Analytics graduate with a passion for uncovering insights and driving data-driven decisions.
+# I'm Manideep Elasagaram, a Data Analytics graduate with expertise in Python, R, SQL, and visualization tools like Tableau and Power BI.
 
-📊 Proficient in data analysis, statistical modeling, and visualization techniques.
+📊 Proficient in Python libraries such as Beautiful Soup, Numpy, and Pandas for data manipulation and analysis.
+📈 Experienced in statistical analysis and quantitative techniques, including probability, regression, and quantitative analysis.
+📉 Skilled in data visualization using Tableau, Power BI, and advanced MS Excel functions like nested formulas and lookups.
+☁️ Familiar with cloud technologies including AWS (S3, EC2, Redshift), Google Cloud, and tools like Hadoop, Hive, and Spark.
+🛠️ Proficient in Jupyter Notebook, R Studio, and ETL tools for data processing and analysis.
 
-🔍 Experienced in Python, R, SQL, and data visualization tools like Tableau and Power BI.
-
-🌱 Currently honing my skills in machine learning and advanced analytics techniques.
-
-📧 Open to full-time opportunities in data analytics and eager to contribute to impactful projects.
-
-Let's connect and explore potential collaborations! 🌟
-<!--
+Open to exciting full-time opportunities in data analytics! Let's connect and discuss how I can contribute to your team. 🌟<!--
 **manideepelasagaram/manideepelasagaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
