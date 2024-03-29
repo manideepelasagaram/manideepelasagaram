@@ -1,4 +1,4 @@
-###                                               Hi there 👋
+##                                               Hi there 👋
 
 # I'm Manideep Elasagaram, a dedicated Data Analytics graduate with a passion for uncovering insights and driving data-driven decisions.
 
