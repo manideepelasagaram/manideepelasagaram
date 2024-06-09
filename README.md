@@ -17,3 +17,5 @@
 🛠️ Proficient in Jupyter Notebook, R Studio, and ETL tools for data processing and analysis.
 
 Open to exciting full-time opportunities in data analytics! Let's connect and discuss how I can contribute to your team.
+
+Reach out to me through melasagaram@horizon.csueastbay.edu or [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/manideep-elasagaram/))
