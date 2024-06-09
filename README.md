@@ -18,4 +18,4 @@
 
 Open to exciting full-time opportunities in data analytics! Let's connect and discuss how I can contribute to your team.
 
-Reach out to me through melasagaram@horizon.csueastbay.edu or [LinkedIn](https://www.linkedin.com/in/manideep-elasagaram/)
+--> Reach out to me through melasagaram@horizon.csueastbay.edu or [LinkedIn](https://www.linkedin.com/in/manideep-elasagaram/)
