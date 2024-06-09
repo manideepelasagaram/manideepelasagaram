@@ -1,8 +1,10 @@
 ##                                               Hi there 👋
 
-# I'm Manideep Elasagaram, A Business Analytics Graduate from California State University, East Bay
+# I'm Manideep Elasagaram, 
 
-# With expertise in Python, R, SQL, and visualization tools like Tableau and Power BI.
+## A Business Analytics Graduate from California State University, East Bay
+
+## With expertise in Python, R, SQL, and visualization tools like Tableau and Power BI.
 
 📊 Proficient in Python libraries such as Beautiful Soup, Numpy, and Pandas for data manipulation and analysis.
 
