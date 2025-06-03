@@ -23,15 +23,10 @@ I'm a Data Analyst with over three years of experience working with healthcare a
 - Collaborated cross-functionally to translate data into actionable insights  
 - Applied statistical methods like regression, forecasting, and trend analysis in real-world settings
 
----
-
-### 🚀 Open to Opportunities
-
-I’m currently exploring **full-time data analytics roles** where I can continue leveraging data to support smart, strategic decisions. If you’re looking for someone with both technical skill and domain experience—let’s connect!
 
 📬 Reach out: **melasagaram@horizon.csueastbay.edu**
 
 ---
 
-🔗 **[View My Portfolio]([https://yourportfolio.link](https://manideepelasagaram.github.io/))** | 🔗 **[View My Tableau](https://public.tableau.com/app/profile/manideep.elasagaram/vizzes)**  
+🔗 **[My Portfolio](https://manideepelasagaram.github.io/)** | 🔗 **[My Tableau](https://public.tableau.com/app/profile/manideep.elasagaram/vizzes)**  
 
