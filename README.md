@@ -33,5 +33,5 @@ I’m currently exploring **full-time data analytics roles** where I can continu
 
 ---
 
-🔗 **[View My Portfolio](https://yourportfolio.link)** | 🔗 **[Connect on LinkedIn](https://linkedin.com/in/your-link)**  
+🔗 **[View My Portfolio]([https://yourportfolio.link](https://manideepelasagaram.github.io/))** | 🔗 **[View My Tableau](https://public.tableau.com/app/profile/manideep.elasagaram/vizzes)**  
 
