@@ -13,6 +13,7 @@ I'm a Data Analyst with over three years of experience working with healthcare a
 - 📊 **Power BI**, **Tableau**, **Advanced Excel** (Lookups, PivotTables, Nested Formulas)
 - ☁️ **AWS (S3, EC2, Redshift)** | **Google Cloud** | **Hadoop**, **Hive**, **Spark**
 - 🧰 **Jupyter Notebook**, **R Studio**, **ETL pipelines**, **Data Warehousing**
+- 🏥 **EHR Systems**: Experience working with **Epic Systems**, including data extraction from Clarity and reporting for clinical quality and operational workflows.
 
 ---
 
