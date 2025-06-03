@@ -1,21 +1,37 @@
-##                                               Hi there 👋
+## 👋 Hi there!
 
-# I'm Manideep Elasagaram, 
+# I'm Manideep Elasagaram  
+### Data Analyst | Business Analytics Graduate | Healthcare & Operational Data Specialist
 
-## A Business Analytics Graduate from California State University, East Bay
+I'm a Data Analyst with over three years of experience working with healthcare and operational data. I hold a Master’s degree in Business Analytics from California State University, East Bay, and I’m passionate about using data to solve real-world problems and drive informed decision-making.
 
-## With expertise in Python, R, SQL, and visualization tools like Tableau and Power BI.
+---
 
-📊 Proficient in Python libraries such as Beautiful Soup, Numpy, and Pandas for data manipulation and analysis.
+### 🧠 Core Skills & Tools
 
-📈 Experienced in statistical analysis and quantitative techniques, including probability, regression, and quantitative analysis.
+- 🐍 **Python** (Pandas, NumPy, BeautifulSoup) | **R** | **SQL**
+- 📊 **Power BI**, **Tableau**, **Advanced Excel** (Lookups, PivotTables, Nested Formulas)
+- ☁️ **AWS (S3, EC2, Redshift)** | **Google Cloud** | **Hadoop**, **Hive**, **Spark**
+- 🧰 **Jupyter Notebook**, **R Studio**, **ETL pipelines**, **Data Warehousing**
 
-📉 Skilled in data visualization using Tableau, Power BI, and advanced MS Excel functions like nested formulas and lookups.
+---
 
-☁️ Familiar with cloud technologies including AWS (S3, EC2, Redshift), Google Cloud, and tools like Hadoop, Hive, and Spark.
+### 📈 What I Bring
 
-🛠️ Proficient in Jupyter Notebook, R Studio, and ETL tools for data processing and analysis.
+- Hands-on experience optimizing EHR workflows and cleaning large-scale datasets  
+- Built interactive dashboards for clinical and administrative teams  
+- Collaborated cross-functionally to translate data into actionable insights  
+- Applied statistical methods like regression, forecasting, and trend analysis in real-world settings
 
-Open to exciting full-time opportunities in data analytics! Let's connect and discuss how I can contribute to your team.
+---
 
---> Reach out to me through melasagaram@horizon.csueastbay.edu
+### 🚀 Open to Opportunities
+
+I’m currently exploring **full-time data analytics roles** where I can continue leveraging data to support smart, strategic decisions. If you’re looking for someone with both technical skill and domain experience—let’s connect!
+
+📬 Reach out: **melasagaram@horizon.csueastbay.edu**
+
+---
+
+🔗 **[View My Portfolio](https://yourportfolio.link)** | 🔗 **[Connect on LinkedIn](https://linkedin.com/in/your-link)**  
+
