@@ -3,7 +3,9 @@
 # I'm Manideep Elasagaram  
 ### Data Analyst | Business Analytics Graduate | Healthcare & Operational Data Specialist
 
-I'm a Data Analyst with over three years of experience working with healthcare and operational data. I hold a Master’s degree in Business Analytics from California State University, East Bay, and I’m passionate about using data to solve real-world problems and drive informed decision-making.
+a Data Analyst with over three years of experience analyzing healthcare and operational data to drive informed decisions. I hold a Master’s in Business Analytics from California State University, East Bay, and have worked with organizations like Duke Health and Northern California SBDC, where I built end-to-end reporting pipelines, optimized EHR workflows, and developed dashboards to support clinical and strategic operations.
+
+My technical stack includes Python, SQL, R, Power BI, Tableau, and big data tools like Spark, Hive, and Hadoop. I’ve led data cleaning, ETL development, predictive modeling, and dashboard automation projects that improved reporting efficiency, enhanced decision-making, and delivered measurable impact. I'm passionate about combining technical depth with clear communication to help teams turn raw data into actionable insights.
 
 ---
 
